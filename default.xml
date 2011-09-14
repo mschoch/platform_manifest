@@ -18,6 +18,7 @@
   -->  
   <project path="dalvik" name="platform_dalvik" />
   <project path="development" name="platform_development" />
+  <!--
   <project path="device/common" name="device_common" />
   <project path="device/google/accessory/arduino" name="device_google_accessory_arduino" />
   <project path="device/google/accessory/demokit" name="device_google_accessory_demokit" />
@@ -27,6 +28,7 @@
   <project path="device/sample" name="device_sample" />
   <project path="device/samsung/crespo" name="device_samsung_crespo" />
   <project path="device/samsung/crespo4g" name="device_samsung_crespo4g" />
+  -->
   <project path="external/apache-http" name="platform_external_apache-http" />
   <project path="external/astl" name="platform_external_astl" />
   <project path="external/bison" name="platform_external_bison" />
