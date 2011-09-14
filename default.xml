@@ -165,9 +165,11 @@
   -->
   <project path="packages/apps/PackageInstaller" name="platform_packages_apps_packageinstaller" />
   <project path="packages/apps/Phone" name="platform_packages_apps_phone" />
+  <!--
   <project path="packages/apps/Protips" name="platform_packages_apps_protips" />
   <project path="packages/apps/Provision" name="platform_packages_apps_provision" />
   <project path="packages/apps/QuickSearchBox" name="platform_packages_apps_quicksearchbox" />
+  -->  
   <project path="packages/apps/Settings" name="platform_packages_apps_settings" />
   <!--
   <project path="packages/apps/SmartCardService" name="platform_packages_apps_SmartCardService" />
