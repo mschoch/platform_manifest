@@ -197,8 +197,8 @@
   <project path="packages/providers/GoogleContactsProvider" name="platform_packages_providers_googlecontactsprovider" />
   <project path="packages/providers/MediaProvider" name="platform_packages_providers_mediaprovider" />
   <project path="packages/providers/TelephonyProvider" name="platform_packages_providers_telephonyprovider" />
-  <project path="packages/providers/UserDictionaryProvider" name="platform_packages_providers_userdictionaryprovider" />
   <!--
+  <project path="packages/providers/UserDictionaryProvider" name="platform_packages_providers_userdictionaryprovider" />  
   <project path="packages/wallpapers/Basic" name="platform_packages_wallpapers_Basic" />
   <project path="packages/wallpapers/LivePicker" name="platform_packages_wallpapers_LivePicker" />
   <project path="packages/wallpapers/MagicSmoke" name="platform_packages_wallpapers_MagicSmoke" />
