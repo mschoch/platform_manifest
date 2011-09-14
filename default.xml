@@ -131,9 +131,9 @@
   <!--
   <project path="hardware/ti/omap3" name="platform_hardware_ti_omap3" />
   <project path="hardware/ti/wlan" name="platform_hardware_ti_wlan" />
-  <project path="libcore" name="platform_libcore" />
-  -->  
+  <project path="libcore" name="platform_libcore" />  
   <project path="ndk" name="platform_ndk" />
+  -->  
   <project path="packages/apps/AccountsAndSyncSettings" name="platform_packages_apps_AccountsAndSyncSettings" />
   <project path="packages/apps/Bluetooth" name="platform_packages_apps_Bluetooth" />
   <project path="packages/apps/Browser" name="platform_packages_apps_Browser" />
